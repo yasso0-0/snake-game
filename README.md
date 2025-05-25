@@ -30,4 +30,5 @@ console.log("- Don't hit the walls or yourself!");
 console.log("Game Features:");
 console.log("- Score tracking");
 console.log("- Increasing difficulty");
+![Snake Game Demo](Animation.gif)
 console.log("- Responsive design");
